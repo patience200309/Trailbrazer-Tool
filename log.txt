@@ -1,0 +1,4 @@
+when using creating folders or files its easier use bash commands 101
+there different commands to use but you should be able to use and understand then carefully 
+after creating files you fork them then you clone them before pushing them to your github account and make sure that there are no errors before you push in your work 
+
